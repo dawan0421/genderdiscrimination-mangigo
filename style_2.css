@@ -1,0 +1,33 @@
+* {
+    background-color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    float: left;
+    margin-right: 20px;
+    border: rgb(75, 72, 228);
+  }
+  
+  .text-container {
+    margin-left: 20px;
+  }
+
+  button {
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    border: none;
+    color: rgb(71, 197, 255);
+    background: teal;
+    cursor: pointer;
+}
+
+h1 {
+    text-size-adjust: 20px;
+    text-align: center;
+}
+
+p {
+   text-align: center; 
+   
+}
